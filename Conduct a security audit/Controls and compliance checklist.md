@@ -1,4 +1,4 @@
-### Activity Overview
+## Activity Overview
 This activity focuses on assessing the **security controls** and **compliance posture** of Botium Toys, a fictional company. The purpose is to identify missing safeguards, evaluate adherence to compliance frameworks (PCI DSS, GDPR, SOC), and recommend improvements to enhance the company’s overall cybersecurity maturity and resilience.
 The assessment was conducted based on the **scope, goals, and risk report** as well as the **control categories** defined in the course materials.
 
@@ -49,47 +49,47 @@ The assessment covered Botium Toys’ entire security program, including:
 | Control | Status |
 |----------|--------|
 | Least Privilege | ❌ No |
-| Disaster Recovery Plan | ❌ No |
+| Disaster Recovery Plans | ❌ No |
 | Password Policies | ✅ Yes (but weak) |
 | Separation of Duties | ❌ No |
 | Firewall | ✅ Yes |
 | Intrusion Detection System (IDS) | ❌ No |
 | Backups | ❌ No |
 | Antivirus Software | ✅ Yes |
-| Manual Maintenance (Legacy Systems) | ❌ No |
+| Manual monitoring, maintenance, and intervention for legacy systems | ❌ No |
 | Encryption | ❌ No |
 | Password Management System | ❌ No |
-| Locks (Offices/Warehouse) | ✅ Yes |
-| CCTV Surveillance | ✅ Yes |
-| Fire Detection / Prevention | ✅ Yes |
+| Locks (offices, storefront, warehouse) | ✅ Yes |
+| Closed-circuit television (CCTV) surveillance | ✅ Yes |
+|Fire detection/prevention (fire alarm, sprinkler system, etc.) | ✅ Yes |
 
 
 
 ## Compliance Checklist
 
-### PCI DSS
+### Payment Card Industry Data Security Standard (PCI DSS)
 | Best Practice | Status |
 |----------------|--------|
-| Only authorized users access card data | ❌ No |
-| Credit card data stored securely | ❌ No |
-| Data encryption implemented | ❌ No |
-| Secure password management | ❌ No |
+| Only authorized users have access to customers’ credit card information | ❌ No |
+| Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment | ❌ No |
+| Implement data encryption procedures to better secure credit card transaction touchpoints and data | ❌ No |
+| Adopt secure password management policies. | ❌ No |
 
-### GDPR
+### General Data Protection Regulation (GDPR)
 | Best Practice | Status |
 |----------------|--------|
-| EU customer data kept private | ❌ No |
-| Breach notification plan (72 hr) | ✅ Yes |
-| Data classification and inventory | ❌ No |
-| Privacy policies enforced | ✅ Yes |
+| E.U. customers’ data is kept private/secured | ❌ No |
+| There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach | ✅ Yes |
+| Ensure data is properly classified and inventoried | ❌ No |
+| Enforce privacy policies, procedures, and processes to properly document and maintain data | ✅ Yes |
 
-### SOC Type 1 / 2
+### System and Organizations Controls (SOC type 1, SOC type 2) 
 | Best Practice | Status |
 |----------------|--------|
-| User access policies established | ❌ No |
-| Sensitive data kept confidential | ❌ No |
-| Data integrity ensured | ✅ Yes |
-| Authorized data access enforced | ✅ Yes |
+| User access policies are established | ❌ No |
+| Sensitive data (PII/SPII) is confidential/private | ❌ No |
+| Data integrity ensures the data is consistent, complete, accurate, and has been validated | ✅ Yes |
+| Data is available to individuals authorized to access it | ✅ Yes |
 
 
 
@@ -109,6 +109,8 @@ The assessment covered Botium Toys’ entire security program, including:
 - **Classify and inventory** data assets for GDPR.  
 - Regularly review and **update privacy policies**.  
 - Conduct **internal audits** to verify control effectiveness.  
+
+
 
 
 
