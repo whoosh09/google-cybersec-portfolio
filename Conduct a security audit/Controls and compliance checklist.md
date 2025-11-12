@@ -73,7 +73,7 @@ The assessment was conducted based on the **scope, goals, and risk report** as w
 | User access policies are established | ❌ No |
 | Sensitive data (PII/SPII) is confidential/private | ❌ No |
 | Data integrity ensures the data is consistent, complete, accurate, and has been validated | ✅ Yes |
-| Data is available to individuals authorized to access it | ✅ Yes |
+| Data is available to individuals authorized to access it | ❌ No |
 
 
 
