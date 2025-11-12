@@ -28,22 +28,6 @@ The assessment covered Botium Toys’ entire security program, including:
 
 
 
-## Control Categories
-
-| Category | Examples | Purpose |
-|-----------|-----------|----------|
-| **Administrative / Managerial** | Policies, procedures, least privilege, separation of duties, disaster recovery plan | Define responsibilities and ensure data is managed securely |
-| **Technical** | Firewalls, IDS, antivirus, encryption, password management | Protect systems and detect/respond to threats |
-| **Physical / Operational** | Locks, CCTV, fire alarms, badge readers | Prevent unauthorized physical access to assets |
-
-**Control Types:**  
-- **Preventative:** Stop incidents (e.g., firewalls, access control)  
-- **Detective:** Identify incidents (e.g., IDS, CCTV)  
-- **Corrective:** Recover from incidents (e.g., backups, recovery plans)  
-- **Deterrent:** Discourage attacks (e.g., signage, visible surveillance):contentReference[oaicite:3]{index=3}
-
-
-
 ## Controls Assessment Checklist
 
 | Control | Status |
