@@ -4,8 +4,8 @@ The assessment was conducted based on the **scope, goals, and risk report** as w
 
 
 ## Scope and Goals
+
 **Scope:**  
-The assessment covered Botium Toys’ entire security program, including:
 - All IT-managed assets  
 - Internal processes and procedures  
 - Compliance and regulatory alignment  
